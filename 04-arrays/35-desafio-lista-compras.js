@@ -15,3 +15,17 @@ let precos = [20, 15, 30, 10, 25];
 
 // Escreva sua solução abaixo:
 
+
+let somaTotal = 0;
+
+for (let preco of listaPrecos) {
+  console.log(preco);
+  somaTotal += preco;
+}
+console.log(somaTotal);
+
+if (somaTotal >= 100) {
+  console.log("Compra acima de R$ 100");
+} else {
+  console.log("Compra abaixo de R$ 100");
+}

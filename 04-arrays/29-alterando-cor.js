@@ -7,3 +7,7 @@ let cores = ["Azul", "Verde", "Amarelo"];
 
 // Escreva sua solução abaixo:
 
+cores[1] = "Vermelho";
+console.log(cores);
+
+
