@@ -6,3 +6,11 @@
 
 // Escreva sua solução abaixo:
 
+for(let i =1; i <=10; i++){
+    if( i === 6){
+        console.log("numero 6 encontrado");
+        break;
+    }
+}
+    
+    

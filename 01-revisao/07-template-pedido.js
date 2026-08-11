@@ -11,3 +11,8 @@
 
 // Escreva sua solução abaixo:
 
+let cliente = "Carlos";
+let produto = "Mouse";
+let quantidade = 3;
+
+console.log(`O cliente ${cliente} comprou ${quantidade} de ${produto}`);

@@ -8,3 +8,8 @@
 
 // Escreva sua solução abaixo:
 
+let horas = 3
+let minutos = 60
+let resultado = minutos * horas
+console.log(`Para a cada 1 hora tem ${minutos} minutos, \nsabendo que voce que encontrar 3 horas faremos ${minutos} x ${horas} = ${resultado} minutos`)
+

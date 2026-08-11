@@ -8,3 +8,8 @@
 
 // Escreva sua solução abaixo:
 
+let produto = "tecaldo"
+let preco = 120;
+let quantidade = 2;
+let resultado = preco * quantidade;
+console.log(`o seu produto: ${produto} custa : ${preco} mas come voce pediu ${quantidade} \nfica ${preco} x ${quantidade} = ${resultado}`)

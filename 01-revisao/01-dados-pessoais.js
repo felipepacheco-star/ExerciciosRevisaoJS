@@ -7,3 +7,8 @@
 
 // Escreva sua solução abaixo:
 
+let nome = "felipe_pacheco";
+let curso = "ds";
+let modulo = "backEnd";
+
+console.log(`meu nome é: ${nome} e eu faço o curso de: ${curso} e estou aprendendo a parte de: ${modulo}`);

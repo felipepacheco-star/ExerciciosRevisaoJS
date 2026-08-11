@@ -9,3 +9,9 @@
 
 // Escreva sua solução abaixo:
 
+let largura = 8;
+let altura =5;
+let resultado = largura* altura;
+
+console.log(`A area do retangulo e igual a ${largura} x ${altura} = ${resultado}`)
+
